@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi there, I'm Bernardo 😊👋
 
-<!--
-**zB3RN4RD0z/zB3RN4RD0z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+    <img src=".github/workflows/gif/hacker-pc.gif" width="1080" alt="GIF"/>
+    <p> I'm not this dude in the photo/gif 😅 </p>
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ 🧑‍💻 Technologies that I usually use in my daily life:
+
+<br>
+
+<div style="display: flex; justify-content: center; align-items: center;">
+
+![My Skills](https://skillicons.dev/icons?i=html,css,javascript,java,c,cs,mysql,python,react,nextjs,bootstrap,sass&theme=dark&perline=4)
+
+</div>
+
+<br>
+
+NOTE: Normally, I try to mix myself into theses Technologies so I can learn more and more how to code them. This way, I can connect to non-existent knowledge. I'm always improving myself to get better performances
+
+---
+
+## 📝 About me
+
+    I'm a front-end developer with a passion for creating user-friendly and visually appealing interfaces. I'm a passionate and curious person who loves to learn and grow, every day trying to implement something and improve it
+
+---
+
+## ☎️ Contact Me
+
+- **Email**: [ bernardomatta2011@gmail.com ]
+- **Instagram**: [ https://www.instagram.com/bernardo_da_matta/ ]
+- **Whatsapp**: [ https://wa.me/5542991560212 ]
+- **Threads**: [ https://www.threads.net/@bernardo_da_matta ]
+
+---
