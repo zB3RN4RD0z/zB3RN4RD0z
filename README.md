@@ -1,7 +1,7 @@
 # Hi there, I'm Bernardo 😊👋
 
 <div align="center">
-    <img src=".github/workflows/gif/hacker-pc.gif" width="1080" alt="GIF"/>
+    <img src=".github/hacker-pc.gif" width="1080" alt="GIF"/>
     <p> I'm not this dude in the photo/gif 😅 </p>
 </div>
 
@@ -11,7 +11,7 @@
 
 <br>
 
-<div style="display: flex; justify-content: center; align-items: center;">
+<div align="center">
 
 ![My Skills](https://skillicons.dev/icons?i=html,css,javascript,java,c,cs,mysql,python,react,nextjs,bootstrap,sass&theme=dark&perline=4)
 
