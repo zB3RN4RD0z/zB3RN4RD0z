@@ -1,13 +1,14 @@
 # Hi there, I'm Bernardo 😊👋
 
 <div align="center">
-    <img src=".github/hacker-pc.gif" width="1080" alt="GIF"/>
-    <p> I'm not this dude in the photo/gif 😅 </p>
+    <img src=".github/image.png" width="350" alt="GIF"/>
+    <p> Photo/Gif made by Pizza Ninjas </p>
+    <a href="https://giphy.com/PizzaNinjas"> - { Pizza Ninjas } - </a>
 </div>
 
 ---
 
-## 🛠️ 🧑‍💻 Technologies that I usually use in my daily life:
+## 🛠️🧑‍💻 Technologies that I usually use in my daily life:
 
 <br>
 
