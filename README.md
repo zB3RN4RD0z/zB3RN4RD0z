@@ -3,7 +3,7 @@
 <div align="center">
     <img src=".github/image.png" width="350" alt="GIF"/>
     <p> Photo/Gif made by Pizza Ninjas </p>
-    <a href="https://giphy.com/PizzaNinjas" target="_blank"> - { Pizza Ninjas } - </a>
+    <a href="https://giphy.com/PizzaNinjas"> - { Pizza Ninjas } - </a>
 </div>
 
 ---
