@@ -5,6 +5,7 @@
     <p> Photo/Gif made by Pizza Ninjas </p>
     <a href="https://giphy.com/PizzaNinjas"> - { Pizza Ninjas } - </a>
     <br>
+    <br>
     <img src=".github/pizza-ninjas.png" width="50" />
 </div>
 
