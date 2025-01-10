@@ -49,8 +49,9 @@ print(job.my_job())
 
 ## **Social Medias 📱**
 
-[thread]: https://www.threads.net/@bernardo_da_matta?hl=pt-br
-[instagram]: https://www.instagram.com/bernardo_da_matta/
-[whatsapp]: https://wa.me/5542991560212
-[facebook]: https://www.facebook.com/bernardo.buenodamatta
-[discord]: https://discordapp.com/users/1259690648655630447
+- **Email**: [ bernardomatta2011@gmail.com ]
+- **Instagram**: [ https://www.instagram.com/bernardo_da_matta/ ]
+- **Facebook**: [ https://www.facebook.com/bernardo.buenodamatta ]
+- **Whatsapp**: [ https://wa.me/5542991560212 ]
+- **Threads**: [ https://www.threads.net/@bernardo_da_matta ]
+- **Discord**: [ https://discordapp.com/users/1259690648655630447 ]
