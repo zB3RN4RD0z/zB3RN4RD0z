@@ -1,43 +1,45 @@
-# Hi there, I'm Bernardo 😊👋
+![pv](https://pageview.vercel.app/?github_user=zB3RN4RD0z)
 
-<div align="center">
-    <img src=".github/cat-hacking.png" width="350" alt="GIF"/>
-    <p> Photo/Gif made by Pizza Ninjas </p>
-    <a href="https://giphy.com/PizzaNinjas"> - { Pizza Ninjas } - </a>
-    <br>
-    <br>
-    <img src=".github/pizza-ninjas.png" width="50" />
-</div>
+## < **About Me** />
 
----
+<img align="right" width="300" height="300" src=".github/coding.gif" style="margin-top: 50px;" />
 
-## 🛠️🧑‍💻 Technologies that I usually use in my daily life:
+```python
+class NewMember():
+    def __init__(self, nameUser):
+        self.nameUser = nameUser
 
-<br>
+    def greeting(self):
+        return f"Hi, {self.nameUser}!"
 
-<div align="center">
+new_member = NewMember("Bernardo Matta")
 
-![My Skills](https://skillicons.dev/icons?i=html,css,javascript,java,c,cs,mysql,python,react,nextjs,bootstrap,sass&theme=dark&perline=4)
+print(new_member.greeting())
 
-</div>
+class NewJob():
+    def __init__(self, nameJob):
+        self.nameJob = nameJob
+    
+    def jobs(self):
+        return f"I'm currently working with {self.nameJob}"
 
-<br>
+new_job = NewJob("HTML, CSS, JavaScript")
+```
 
-NOTE: Normally, I try to mix myself into theses Technologies so I can learn more and more how to code them. This way, I can connect to non-existent knowledge. I'm always improving myself to get better performances
+<h3 align="left"> Languages and Tools </h3>
 
----
+![My Skills](https://skillicons.dev/icons?i=html,css,javascript,java,c,cs,mysql,python,react,nextjs,bootstrap,sass&theme=dark&perline=6)
 
-## 📝 About me
+## < **GitHub Statistics** />
 
-    I'm a front-end developer with a passion for creating user-friendly and visually appealing interfaces. I'm a passionate and curious person who loves to learn and grow, every day trying to implement something and improve it
+<a href="https://github.com/Gurupreet">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zB3RN4RD0z&layout=compact&theme=dracula" />
+</a>
 
----
+## **Social Medias 📱**
 
-## ☎️ Contact Me
-
-- **Email**: [ bernardomatta2011@gmail.com ]
-- **Instagram**: [ https://www.instagram.com/bernardo_da_matta/ ]
-- **Whatsapp**: [ https://wa.me/5542991560212 ]
-- **Threads**: [ https://www.threads.net/@bernardo_da_matta ]
-
----
+[thread]: https://www.threads.net/@bernardo_da_matta?hl=pt-br
+[instagram]: https://www.instagram.com/bernardo_da_matta/
+[whatsapp]: https://wa.me/5542991560212
+[facebook]: https://www.facebook.com/bernardo.buenodamatta
+[discord]: https://discordapp.com/users/1259690648655630447
