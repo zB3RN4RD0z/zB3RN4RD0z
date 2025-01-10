@@ -1,5 +1,3 @@
-![pv](https://pageview.vercel.app/?github_user=zB3RN4RD0z)
-
 ## < **About Me** />
 
 <img align="right" width="300" height="250" src=".github/coding.gif" />
