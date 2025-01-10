@@ -2,28 +2,41 @@
 
 ## < **About Me** />
 
-<img align="right" width="300" height="300" src=".github/coding.gif" style="margin-top: 50px;" />
+<img align="right" width="300" height="250" src=".github/coding.gif" />
 
 ```python
-class NewMember():
-    def __init__(self, nameUser):
-        self.nameUser = nameUser
+class Member():
+    def __init__(self, user):
+        self.user = user
 
     def greeting(self):
-        return f"Hi, {self.nameUser}!"
+        return f"Hi, {self.user}!"
 
-new_member = NewMember("Bernardo Matta")
+member = Member("Bernardo Matta")
 
-print(new_member.greeting())
+print(member.greeting())
 
-class NewJob():
-    def __init__(self, nameJob):
-        self.nameJob = nameJob
+class City():
+    def __init__(self, userCity):
+        self.userCity = userCity
+
+    def my_city(self):
+        return f"I'm currently living in {self.userCity}"
+
+city = City("União da Vitória")
+
+print(city.my_city())
+
+class Job():
+    def __init__(self, userJob):
+        self.userJob = userJob
     
-    def jobs(self):
-        return f"I'm currently working with {self.nameJob}"
+    def my_job(self):
+        return f"I'm currently working with {self.userJob}"
 
-new_job = NewJob("HTML, CSS, JavaScript")
+job = Job("HTML, CSS, JavaScript")
+
+print(job.my_job())
 ```
 
 <h3 align="left"> Languages and Tools </h3>
