@@ -8,7 +8,7 @@
 
 ## Something I like to use in my everyday life
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
     <img align="center" alt="Windows11" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg"> -> Windows11
     <br>
     <img align="center" alt="VSCODE" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"/> -> Visual Studio Code
