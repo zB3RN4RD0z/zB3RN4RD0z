@@ -1,6 +1,6 @@
 ## Welcome to my Github profile 😁
 
-<div>
+<div align="center">
     <a href="https://github.com/zB3RN4RD0z">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zB3RN4RD0z&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zB3RN4RD0z&layout=compact&langs_count=6&theme=tokyonight"/>
