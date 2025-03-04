@@ -1,20 +1,20 @@
-<h1 style="color: green">
+<h1>
     👋 <[ Initial Presentation ]>
 </h1> 
 
-<h3 style="color: cyan; text-align: justify">
+<h3>
     Hello, I introduce myself, so my name is Bernardo. I'm a software developer, every day I try harder to meet customer needs
 </h3>
 
-<h1 style="color: green">
+<h1>
     📝 <[ About Me ]> 
 </h1>
 
-<h3 style="color: cyan; text-align: justify">
+<h3>
     Oh hey there! How are you doing today? I'm a software developer passionate about building efficient and scalable solutions. My main focus is on web and mobile development, always looking to improve/grow my skills and learn new technologies.
 </h3>
 
-<h1 style="color: green">
+<h1>
     💻 <[ Tech Stack ]> 
 </h1>
 
