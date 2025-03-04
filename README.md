@@ -1,12 +1,23 @@
-# 👋 <[ Initial Presentation ]>
+<h1 style="color: green">
+    👋 <[ Initial Presentation ]>
+</h1> 
 
-<h3 style="color: cyan">Hello, I introduce myself here, and my name is Bernardo. I'm a software developer, every day I try harder to meet customer needs</h3>
+<h3 style="color: cyan; text-align: justify">
+    Hello, I introduce myself, so my name is Bernardo. I'm a software developer, every day I try harder to meet customer needs
+</h3>
 
-# 📝 <[ About Me ]>
+<h1 style="color: green">
+    📝 <[ About Me ]> 
+</h1>
 
-...
+<h3 style="color: cyan; text-align: justify">
+    Oh hey there! How are you doing today? I'm a software developer passionate about building efficient and scalable solutions. My main focus is on web and mobile development, always looking to improve/grow my skills and learn new technologies.
+</h3>
 
-# 💻 <[ Tech Stack ]>
+<h1 style="color: green">
+    💻 <[ Tech Stack ]> 
+</h1>
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -29,6 +40,3 @@
 ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white)
 ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
-
-# 📊 <[ GitHub Stats ]>
-![](https://github-readme-stats.vercel.app/api?username=zB3RN4RD0z&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
